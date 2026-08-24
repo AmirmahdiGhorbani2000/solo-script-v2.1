@@ -299,7 +299,7 @@ Error: Parse Error at line 17, column 13
                 ^
 ```
 ## لایسنس
-
+GNU General Public License v3.0
 ## حمایت
 اگر این پروژه مفید بود لطفاً ستاره بدید.
 
